@@ -25,9 +25,13 @@ keywords = "zola, theme, retro, hacking"
 theme_color = "#000084"
 zola386_menu = [
   {path="home", name="Home"},
+  {path="details", name="Details"},
+  {path="poster", name="Poster"},
+  {path="onepager", name="One Pager"},
+  {path="resources", name="Resources"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
-  {path="details", name="Details"},
+  {path="githubrepo", name="Files repo"}
 ]
 
 ### THIRD PARTY
