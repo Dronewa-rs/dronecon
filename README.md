@@ -1,5 +1,10 @@
 ![Drone Wars](https://dronewa.rs)
+
+
 Ported from Joe Lopes's excellent Zola.386 template.  
+
+That is all.
+\
 
 # ZOLA.386
 
