@@ -142,12 +142,9 @@
     <hr class="soften">
     <p>
         {{ config.extra.year }} &copy;
-        <a href="{{ config.base_url }}">{{ config.extra.author }}</a>
+        <a href="{{ config.base_url }}/home">{{ config.extra.author }}</a>
         {% if config.extra.twitter_user or config.extra.linkedin_user or config.extra.github_user or config.extra.gitlab_user %}
         |
-        {% endif %}
-        {% if config.extra.twitter_user %}
-        <a href="https://twitter.com/{{ config.extra.twitter_user }}" target="_blank">Twitter</a>
         {% endif %}
         {% if config.extra.linkedin_user %}
         <a href="https://linkedin.com/in/{{ config.extra.linkedin_user }}" target="_blank">Linkedin</a>
@@ -159,7 +156,7 @@
         <a href="https://gitlab.com/{{ config.extra.gitlab_user }}" target="_blank">GitLab</a>
         {% endif %}
         |
-        Built on <a href="https://getzola.org" target="_blank">Zola</a>
+        Built on <a href="https://getzola.org" target="_blank">Zola</a> by <a href="https://github.com/lopes" target="_blank">Joe Lopes</a> thanks to his <a href="https://github.com/lopes/zola.386" target="_blank">zola.386</a> theme.
     </p>
   </footer>
 

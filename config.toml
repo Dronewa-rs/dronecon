@@ -1,4 +1,4 @@
-base_url = "http://127.0.0.1:1111/"
+base_url = "https://dronewa.rs"
 home = "home.md"
 # theme = "zola.386"
 
@@ -21,7 +21,7 @@ taxonomies = [
 author = "Dronecon Hackathon"
 year = "Begun, the drone wars have."
 
-keywords = "zola, theme, retro, hacking"
+keywords = "drone wars, hackathon, hacking, cyber"
 theme_color = "#000084"
 zola386_menu = [
   {path="home", name="Home"},
@@ -31,7 +31,8 @@ zola386_menu = [
   {path="resources", name="Resources"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
-  {path="githubrepo", name="Files repo"}
+  {path="githubrepo", name="Files repo"},
+  {path="404", name="404 - Game Over"}
 ]
 
 ### THIRD PARTY
@@ -40,9 +41,8 @@ zola386_menu = [
 
 ### SOCIAL MEDIA
 image = "https://raw.githubusercontent.com/lopes/zola.386/master/screenshot.png"
-twitter_user = "lopesoj"
-linkedin_user = "jlopesjr"
-github_user = "lopes"
+linkedin_user = "rustd"
+  github_user = "trustdan"
 # gitlab_user = ""
 
 ### I18N WORDS
