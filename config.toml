@@ -1,4 +1,4 @@
-base_url = "https://dronewa.rs"
+base_url = "https://dronewa.rs/"
 home = "home.md"
 # theme = "zola.386"
 
