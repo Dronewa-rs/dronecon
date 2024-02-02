@@ -33,6 +33,9 @@ Built with: [Zola](https://getzola.org/), [Rust](https://www.rust-lang.org/), an
 • [Vim](https://www.vim.org/about.php).
 \
 
+• [Cursor - a better Visual Studio Code](https://cursor.sh/).
+\
+
 • Random ASCII art websites like [this one](https://ascii-generator.site/).
 \
 
