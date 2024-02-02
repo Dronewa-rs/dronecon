@@ -10,7 +10,7 @@ slug = "home"
 [taxonomies]
 categories = ["about"]
 
-tags = ["longform", "description", "what it is"]
+tags = ["longform", "description", "what-it-is"]
 
 +++
 

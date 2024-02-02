@@ -26,17 +26,20 @@ theme_color = "#000084"
 zola386_menu = [
   {path="home", name="Home"},
   {path="details", name="Details"},
+  {path="interest", name="Interest Form"},
   {path="poster", name="Poster"},
-  {path="onepager", name="One Pager"},
+  {path="onepager", name="OnePager"},
   {path="resources", name="Resources"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
-  {path="githubrepo", name="Files repo"},
-  {path="404", name="404 - Game Over"}
+  {path="githubrepo", name="Files"},
+  {path="howto", name="How to"},
+  {path="404", name="Game Over"},
+  {path="respawn", name="Startx"}
 ]
 
 ### THIRD PARTY
-# google_analytics = "UA-012345-67"
+# google_analytics = ""
 # disqus = "disqus-user"
 
 ### SOCIAL MEDIA
