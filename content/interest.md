@@ -8,7 +8,7 @@ slug = "interest"
 [taxonomies]
 categories = ["promo"]
 
-tags = ["picture-perfect", "promo", "latex", "tex"]
+tags = ["interest-form", "microsoft-form"]
 
 +++
 

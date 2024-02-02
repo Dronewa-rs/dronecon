@@ -8,7 +8,7 @@ slug = "howto"
 [taxonomies]
 categories = ["how-to"]
 
-tags = ["github", "text", "rust-lang", "zola"]
+tags = ["github", "text", "rust-lang", "zola", "latex", "how-to", "command-line-interface"]
 
 +++
 
