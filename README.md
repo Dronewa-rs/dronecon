@@ -1,5 +1,5 @@
 
-# Welcome to [Drone Wars](https://dronewa.rs/)
+# Welcome to [Drone Wars](https://dronewa.rs/) 
 
 Ported from Joe Lopes's excellent [Zola.386](https://github.com/lopes/zola.386) template.  
 
